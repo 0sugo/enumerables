@@ -4,7 +4,7 @@ require my_enumerable
 class MyList
   include MyEnumerable
 
-  def initial(*element)
+  def initialize(*element)
     @list = element
   end
 
