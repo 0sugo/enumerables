@@ -1,8 +1,7 @@
-# enumerables<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [enumerables](#enumerables)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 \[Enumerables\] ](#-enumerables-)
   - [🛠 Built With ](#-built-with-)
@@ -75,7 +74,7 @@ bundle install
 To run the project, execute the following command:
 
 ```sh
-- Open the terminal and insert the commands in this repository.
+Open the terminal and insert the commands.
 ```
 
 
