@@ -27,7 +27,6 @@
 # 📖 [Enumerables] <a name="about-project"></a>
 # 📖 [Enumerables] <a name="about-project"></a>
 # 📖 [Enumerables] <a name="about-project"></a>
-# 📖 [Enumerables] <a name="about-project"></a>
 
  [Enumerables] Is a simple project that implements a subset of the functionality of Enumerable.
 
