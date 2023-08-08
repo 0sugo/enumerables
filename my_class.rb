@@ -1,5 +1,14 @@
 require_relative 'my_enumerable'
 # Represents a list of elements that pass certain conditions
+# Represents a list of elements that pass certain conditions
+# Represents a list of elements that pass certain conditions
+# Represents a list of elements that pass certain conditions
+# Represents a list of elements that pass certain conditions
+# Represents a list of elements that pass certain conditions
+# Represents a list of elements that pass certain conditions
+# Represents a list of elements that pass certain conditions
+# Represents a list of elements that pass certain conditions
+# Represents a list of elements that pass certain conditions
 class MyList
   include MyEnumerable
 
